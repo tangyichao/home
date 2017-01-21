@@ -32,7 +32,7 @@
 [这里](http://blog.csdn.net/xyz_lmn/article/details/48055919)
 
 ### 10，如何自学Android  在知乎上看完stormzhang的回答或许你不在迷茫
-[这里](### https://www.zhihu.com/question/26417244)
+[这里](https://www.zhihu.com/question/26417244)
 
 ### 11，屏幕适配  轻轻松松学会屏幕适配
 [这里](http://blog.csdn.net/lmj623565791/article/details/45460089)
