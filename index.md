@@ -3,17 +3,17 @@
 ## Blog篇
 
 ### 1，RxJava  想要学习RxJava必须推荐扔物线写的这篇文章，循循渐进
-http://gank.io/post/560e15be2dca930e00da1083
+[这里](http://gank.io/post/560e15be2dca930e00da1083)
 
 ### 2，自定义控件  一说到自定义控件，大家都感觉到头疼，其实我也感觉到头痛，那么幸福来了，推荐你看gcssloop这一系列的自定义控件的文章，让你从入门到精通
-http://www.gcssloop.com/customview/CustomViewIndex
+[这里](http://www.gcssloop.com/customview/CustomViewIndex)
 
 ### 3，MVP框架的使用  都快2017年了，如果你还不会使用MVP，那就真out了
 首推鸿洋大神的这一篇文章，适合MVP轻松入门
-http://blog.csdn.net/lmj623565791/article/details/46596109
+[这里](http://blog.csdn.net/lmj623565791/article/details/46596109）
 
 ### 4，Retrofit2   简书的一篇关于Retrofit2的详细使用，让你真正会用Retrofit2
-http://www.jianshu.com/p/308f3c54abdd
+[这里](http://www.jianshu.com/p/308f3c54abdd）
 
 ### 5，OkHttp   又是鸿洋大神的blog文章，这是Android OkHttp完全解析，是时候来了解OkHttp了
 http://blog.csdn.net/lmj623565791/article/details/47911083
