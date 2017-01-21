@@ -1,7 +1,6 @@
 #  收藏夹中，收藏的那些Android干货（必须收藏）
 
-> 更对内容随时会补充进来
-
+> 更对内容随时会补充进来，不定时更新
 ## Blog篇
 
 * 1，RxJava  想要学习RxJava必须推荐扔物线写的这篇文章，循循渐进
@@ -42,48 +41,52 @@
 * 12，不解释 Android最权威的Blog
 [这里](https://developer.android.google.cn/index.html)
 
+
+* 13，国内值得关注的API集合，很全很强
+[这里](http://www.jianshu.com/p/ecf037476603)
+
+
 ## 面试篇
 
-* 下面就罗列一下别人总结的面试文章 总结的很全面，留着以后用
+* 下面就罗列一下别人总结的Android面试文章 总结的很全面，留着年后以后用
 
-[这里](http://www.jianshu.com/p/a22450882af2)
+[Android面试题整理](http://www.jianshu.com/p/a22450882af2)
 
-[这里](http://www.jianshu.com/p/89f19d67b348)
+[亲爱的面试官，这个我可没看过！（Android部分）](http://www.jianshu.com/p/89f19d67b348)
 
-[这里](http://www.jianshu.com/p/1bdf7d0e1ac5)
+[Android工程师面试题大全](http://www.jianshu.com/p/1bdf7d0e1ac5)
 
-[这里](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820648&idx=1&sn=cb9ee924f2ded3358dd6c256803cc687&scene=0#wechat_redirect)
+[Android 面试要点-鸿洋](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820648&idx=1&sn=cb9ee924f2ded3358dd6c256803cc687&scene=0#wechat_redirect)
 
 ## 工具篇
 
 * 1，Genymotion 强大的模拟器
-[这里](https://www.genymotion.com/)
+[点击这里下载](https://www.genymotion.com/)
 
 * 2，Sublime text  用了都说好，阅读代码神奇
-[这里](https://www.sublimetext.com/)
+[点击这里下载](https://www.sublimetext.com/)
 
 * 3，XMind  思维导图
-[这里](http://www.xmindchina.net/)
+[点击这里下载](http://www.xmindchina.net/)
 
 * 4，Lantern  翻墙神器，但是我还是想吐槽，虽然有时候也不好用
-[这里](https://www.getlantern.org/)
+[点击这里下载](https://www.getlantern.org/)
 
 * 5，Everything  windows下文件搜索神器
-[这里](http://www.voidtools.com/downloads/)
+[点击这里下载](http://www.voidtools.com/downloads/)
 
 *  6，Fiddler4抓包必备 （windows）
-[这里](https://www.telerik.com/download/fiddler/fiddler4)
+[点击这里下载](https://www.telerik.com/download/fiddler/fiddler4)
 
 * 7，charles抓包必备
-[这里](https://www.charlesproxy.com/download/)
+[点击这里下载](https://www.charlesproxy.com/download/)
 
 * 8，MacDown 一个快捷方便的Makedown，美观，高效，快捷
-[这里](http://macdown.uranusjr.com/)
+[点击这里下载](http://macdown.uranusjr.com/)
 
 * 9，Codota 搜索代码神器
-[这里](https://www.codota.com/)
+[点击这里下载](https://www.codota.com/)
 
 
-### 我的微信公众号
-
+### 我的微信公众号，里面干货多多
 ![欢迎关注微信公众号](http://mmbiz.qpic.cn/mmbiz_jpg/CP9AlgoibiagWSGfRg9dxv4peAxgwickwqYOl9bywdhsRO4GoILlianCt0ia8aIfFuria7o4oaqeeHfQuKuvOgib49LsA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
