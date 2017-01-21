@@ -1,8 +1,8 @@
-# Welcome to GitHub Pages
+#  收藏夹中，收藏的那些Android干货（必须收藏）
 
 ## Blog篇
 
-### 1，RxJava  想要学习RxJava必须推荐抛物线写的这篇文章，循循渐进
+### 1，RxJava  想要学习RxJava必须推荐扔物线写的这篇文章，循循渐进
 http://gank.io/post/560e15be2dca930e00da1083
 
 ### 2，自定义控件  一说到自定义控件，大家都感觉到头疼，其实我也感觉到头痛，那么幸福来了，推荐你看gcssloop这一系列的自定义控件的文章，让你从入门到精通
