@@ -28,7 +28,7 @@
 * 8，React Native 混合开发，推荐大家看江清清的这一套文章，入门还是不成问题的
 [这里](http://www.lcode.org/react-native/)
 
-### 9，CoordinatorLayout  推荐这一片文章 轻松使用CoordinatorLayout
+* 9，CoordinatorLayout  推荐这一片文章 轻松使用CoordinatorLayout
 [这里](http://blog.csdn.net/xyz_lmn/article/details/48055919)
 
 * 10，如何自学Android  在知乎上看完stormzhang的回答或许你不在迷茫
