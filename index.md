@@ -45,7 +45,8 @@
 
 * 13，国内值得关注的API集合，很全很强
 [这里](http://www.jianshu.com/p/ecf037476603)
-
+* 14，RxJava 与 Retrofit 结合的最佳实践
+[这里](http://gank.io/post/56e80c2c677659311bed9841)
 
 ## 面试篇
 
