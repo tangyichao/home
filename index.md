@@ -52,6 +52,9 @@
 * 15, 图解 Android 事件分发机制
 [这里](http://www.jianshu.com/p/e99b5e8bd67b?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin)
 
+* 16, Android 进程保活招式大全
+[这里](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577617&idx=1&sn=623256a2ff94641036a6c9eea17baab8&scene=1&srcid=0818EecQYYkaSkd5HD8WjDf8#rd)
+
 ## 面试篇
 
 * 下面就罗列一下别人总结的Android面试文章 总结的很全面，留着年后以后用
