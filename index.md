@@ -45,8 +45,12 @@
 
 * 13，国内值得关注的API集合，很全很强
 [这里](http://www.jianshu.com/p/ecf037476603)
+
 * 14，RxJava 与 Retrofit 结合的最佳实践
 [这里](http://gank.io/post/56e80c2c677659311bed9841)
+
+* 15, 图解 Android 事件分发机制
+[这里](http://www.jianshu.com/p/e99b5e8bd67b?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin)
 
 ## 面试篇
 
