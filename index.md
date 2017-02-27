@@ -55,6 +55,9 @@
 * 16, Android 进程保活招式大全
 [这里](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577617&idx=1&sn=623256a2ff94641036a6c9eea17baab8&scene=1&srcid=0818EecQYYkaSkd5HD8WjDf8#rd)
 
+* 17, Dagger2入门 很实用
+[这里](http://blog.csdn.net/duo2005duo/article/details/50618171)
+
 ## 面试篇
 
 * 下面就罗列一下别人总结的Android面试文章 总结的很全面，留着年后以后用
