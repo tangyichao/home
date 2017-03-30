@@ -58,6 +58,8 @@
 * 17, Dagger2入门 很实用
 [这里](http://blog.csdn.net/duo2005duo/article/details/50618171)
 
+* 18，RxJava2入门文章,共9篇
+[这里](http://www.jianshu.com/u/c50b715ccaeb)
 ## 面试篇
 
 * 下面就罗列一下别人总结的Android面试文章 总结的很全面，留着年后以后用
