@@ -95,7 +95,7 @@
 * 7，charles抓包必备
 [点击这里下载](https://www.charlesproxy.com/download/)
 
-* 8，MacDown 一个快捷方便的Makedown编辑工具，美观，高效，快捷
+* 8，MacDown 一个快捷方便的Markdown编辑工具，美观，高效，快捷
 [点击这里下载](http://macdown.uranusjr.com/)
 
 * 9，Codota 搜索代码神器
